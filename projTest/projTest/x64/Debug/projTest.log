@@ -1,0 +1,32 @@
+﻿  projTest.cpp
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,35): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,35): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,35): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,35): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,35): warning C4305:         ]
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,42): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,42): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,42): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,42): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(70,42): warning C4305:         ]
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,35): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,35): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,35): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,35): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,35): warning C4305:         ]
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,42): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,42): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,42): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,42): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(71,42): warning C4305:         ]
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,31): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,31): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,31): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,31): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,31): warning C4305:         ]
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,37): warning C4305: инициализация: усечение из "double" в "_Ty"
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,37): warning C4305:         with
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,37): warning C4305:         [
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,37): warning C4305:             _Ty=float
+C:\Users\Andrey\Desktop\job\trade\projTest\projTest\projTest.cpp(72,37): warning C4305:         ]
+  projTest.vcxproj -> C:\Users\Andrey\Desktop\job\trade\projTest\x64\Debug\projTest.exe
