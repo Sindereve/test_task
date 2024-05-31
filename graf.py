@@ -2,10 +2,10 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import datetime
 import math
-import data_generation
+##import data_generation
 
 def data_read():
-    data_generation.generation(10000)
+    ##data_generation.generation(10000)
     times = []
     prices = []
     with open('trades.txt','r') as file:
